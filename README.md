@@ -1,0 +1,1 @@
+# vuetify-nuxt-ssr-firebase
